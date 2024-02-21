@@ -46,3 +46,26 @@ footer {
     padding: 10px 0;
     text-align: center;
 }
+.skills-icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button i {
+    margin-right: 5px;
+}
+
